@@ -42,7 +42,7 @@ keyword_dict = {
      # Platform
      "middleware":["middleware"],
      "rate-limit":["rate limit","throttle","429","too many request"],
-     "app-mgmt-portal":["developer portal","dev portal","app portal","app management portal","AMP","app submission","app listing","deploy"],
+     "app-mgmt-portal":["developer portal","dev portal","app portal","app management portal","app submission","app listing","deploy"],
      "app-installation":["renderData","onAppInstall","onAppUninstall","app installation","app gallery","uninstall","uninstallation"],
      "documentation":["docs","documentation","sdk docs","api docs"],
      "security":["authentication","security","authorization","confidential","sensitive"],
